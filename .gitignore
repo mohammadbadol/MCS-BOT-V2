@@ -1,0 +1,15 @@
+node_modules/
+.cache/
+.upm/
+*.log
+*.temp
+*.bak
+*.old
+.env
+.env.local
+.env.*.local
+.DS_Store
+Thumbs.db
+config.json.temp
+data/
+backups/
