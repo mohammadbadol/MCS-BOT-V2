@@ -9,9 +9,9 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "PREFIX": ".",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "61581197276223",
+        "1086955587",
         "61576500657447"
     ],
     "SUPERADMIN": [
